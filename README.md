@@ -1,4 +1,5 @@
 Yapay Sinir Ağları ile Fetal Sağlık Sınıflandırması Tahmini
+
 Bu projenin amacı, fetal sağlık durumunu belirlemek için çeşitli fizyolojik parametrelerin analiz edildiği 
 bir model geliştirmektir. Projede kullanılan veri seti, çeşitli fizyolojik parametreleri içerir ve bu parametrelerin 
 fetal sağlık durumu üzerindeki etkilerini değerlendirmek için korelasyon analizi, özellik seçimi ve boyut azaltma 
